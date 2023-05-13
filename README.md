@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Manage your machine learning lifecycle with MLflow and Amazon SageMaker
 
 ### Overview
@@ -115,3 +116,6 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
 
+=======
+# amazon-sagemaker-mlflow-fargate
+>>>>>>> 6fc6ddf7e563e07e309bf1db0070b3b663923fda
